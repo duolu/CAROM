@@ -9,8 +9,8 @@ Through collaborating with a local transportation department in the United State
 * [Validation with aerial videos](https://youtu.be/Z6AY0bTjV-4) (site 2)
 * [Demo videos at site 2](https://youtu.be/cR5G8N1hxko) (East Osborn Road, ~10 minutes)
 * [Demo videos at site 1A](https://youtu.be/pKGxqBnaGAk) (eastbound of the intersection, ~10 minutes)
-* [Demo videos at site 1B](https://youtu.be/aFRLNki1Sq0) (westbound of the intersection, ~10 minutes)
-* [Demo videos at site 1C](https://youtu.be/79ZrOIpRCN0) (northbound of the intersection, ~10 minutes)
+* [Demo videos at site 1B](https://youtu.be/79ZrOIpRCN0) (northbound of the intersection, ~10 minutes)
+* [Demo videos at site 1C](https://youtu.be/aFRLNki1Sq0) (westbound of the intersection, ~10 minutes)
 * [Demo videos at site 1D](https://youtu.be/pMOLFDCAGI4) (southbound of the intersection, ~10 minutes)
 
 
