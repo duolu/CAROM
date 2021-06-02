@@ -4,7 +4,7 @@ CAROM means "CARs On the Map". It is a framework to track and localize vehicles 
 
 [![CAROM Demo](https://img.youtube.com/vi/2OQ2Pf1BeHc/0.jpg)](https://youtu.be/2OQ2Pf1BeHc)
 
-Through collaborating with a local transportation department in the United States, we constructed a benchmarking dataset containing GPS data, roadside camera videos, and drone videos to validate the vehicle tracking results. On average, the localization error is approximately 0.8 m and 1.7 m on average within the range of 50 m and 120 m from the cameras, respectively. More detailed demo videos for qualitative evaluation are shown as follows.
+Through collaborating with the Maricopa County Department of Transportation (MCDOT) in Arizona, US, we constructed a small benchmarking dataset containing GPS data, infrastructure based camera videos, and drone videos to validate the vehicle tracking results. On average, the localization error is approximately 0.8 m and 1.7 m on average within the range of 50 m and 120 m from the cameras, respectively. More detailed demo videos for qualitative evaluation are shown as follows.
 
 * [Demo videos at site 1A](https://youtu.be/pKGxqBnaGAk) (Eastbound of the intersection, ~10 minutes)
 * [Demo videos at site 1B](https://youtu.be/79ZrOIpRCN0) (Northbound of the intersection, ~10 minutes)
