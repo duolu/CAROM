@@ -34,7 +34,7 @@ More detailed demo videos for qualitative evaluation are shown as follows.
   * [Roundabouts](https://youtu.be/4hF1ABO0-24)
   * [Intersections](https://youtu.be/4Drjxmoe4Sc)
   * [Local road segments](https://youtu.be/BPsEchi_qWU)
-  * [Highway segments](https://youtu.be/R5io_pBuvpM).
+  * [Highway segments](https://youtu.be/R5io_pBuvpM)
 
 
 # CAROM
