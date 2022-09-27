@@ -9,6 +9,9 @@ CAROM means "CARs On the Map tracked from the Air". It is our most recent work t
 More detailed demo videos for qualitative evaluation are shown as follows.
 
 * Tracking evaluation: [track 1a](https://youtu.be/9IsbQ_jfSlA), [track 1b](https://youtu.be/VWkGq62GtP8), [track 1c](https://youtu.be/LrPKceT6OoI), [track 1d](https://youtu.be/xesGTjivWwc).
+* Model fitting evaluation: [track 2a](https://youtu.be/9N8S6Fr_HoQ), [track 2b](https://youtu.be/wqA7cpWiRuc), [track 2c](https://youtu.be/C7GBcROezGk), [track 2d](https://youtu.be/5pk7EKnmlNA), [track 2e](https://youtu.be/8HtYUmEzJ8s), [track 2f](https://youtu.be/xJDAWIf3Zec).
+* Localization evaluation: [track 3a](https://youtu.be/ts7h4i6Cz4w), [track 3b](https://youtu.be/CXOICJtjKJE), [track 3c](https://youtu.be/5baGciKmBu0), [track 3d](https://youtu.be/e8xckoBgYyQ), [track 3e](https://youtu.be/K6Eu_fKIa7A), [track 3f](https://youtu.be/dzXh-6few7g), [track 3g](https://youtu.be/E0oVavZ-r_g), [track 3h](https://youtu.be/KM2lxBYVKlY), [track 3i](https://youtu.be/wc5e3D2WT0w).
+* Dataset: [roundabouts](https://youtu.be/4hF1ABO0-24), [intersections](https://youtu.be/4Drjxmoe4Sc), [local road segments](https://youtu.be/BPsEchi_qWU), [highway segments](https://youtu.be/R5io_pBuvpM).
 
 
 # CAROM
@@ -23,14 +26,14 @@ Through collaborating with the Maricopa County Department of Transportation (MCD
 
 More detailed demo videos for qualitative evaluation are shown as follows.
 
-* [Demo videos at site 1A](https://youtu.be/pKGxqBnaGAk) (Eastbound of the intersection, ~10 minutes)
-* [Demo videos at site 1B](https://youtu.be/79ZrOIpRCN0) (Northbound of the intersection, ~10 minutes)
-* [Demo videos at site 1C](https://youtu.be/aFRLNki1Sq0) (Westbound of the intersection, ~10 minutes)
-* [Demo videos at site 1D](https://youtu.be/pMOLFDCAGI4) (Southbound of the intersection, ~10 minutes)
-* [Demo videos at site 2](https://youtu.be/cR5G8N1hxko) (East Osborn Road, ~10 minutes)
-* [Validation with aerial videos at site 2](https://youtu.be/Z6AY0bTjV-4) (East Osborn Road)
-* [Demo on four view fusion at site 1](https://youtu.be/eQwW7ZCzwtU) (Detailed slow motion)
-* [Demo on speed estimation at site 1](https://youtu.be/8jOseFxUxsI) (Detailed slow motion)
+* [Demo videos at site 1A](https://youtu.be/pKGxqBnaGAk) (Eastbound of the intersection, Anthem, AZ, ~10 minutes)
+* [Demo videos at site 1B](https://youtu.be/79ZrOIpRCN0) (Northbound of the intersection, Anthem, AZ, ~10 minutes)
+* [Demo videos at site 1C](https://youtu.be/aFRLNki1Sq0) (Westbound of the intersection, Anthem, AZ, ~10 minutes)
+* [Demo videos at site 1D](https://youtu.be/pMOLFDCAGI4) (Southbound of the intersection, Anthem, AZ, ~10 minutes)
+* [Demo videos at site 2](https://youtu.be/cR5G8N1hxko) (East Osborn Road, Scottsdale, AZ, ~10 minutes)
+* [Validation with aerial videos at site 2](https://youtu.be/Z6AY0bTjV-4) (East Osborn Road, Scottsdale, AZ)
+* [Demo on four view fusion at site 1](https://youtu.be/eQwW7ZCzwtU) (Detailed slow motion, Anthem, AZ)
+* [Demo on speed estimation at site 1](https://youtu.be/8jOseFxUxsI) (Detailed slow motion, Anthem, AZ)
 
 ## Publications
 
