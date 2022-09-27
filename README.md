@@ -1,6 +1,6 @@
 # CAROM Air
 
-CAROM means "CARs On the Map tracked from the Air". It is our most recent work to track and localize vehicles using aerial videos taken by drones. It is designed for traffic scene reconstruction and analysis. See the following short [demo video](https://youtu.be/YQcnAQMWmas). Our research paper is currently under review.
+CAROM Air means "CARs On the Map tracked from the Air". It is our recent work to track and localize vehicles using aerial videos taken by drones. It is designed for traffic scene reconstruction and analysis. See the following short [demo video](https://youtu.be/YQcnAQMWmas). Our research paper is currently under review.
 
 [![CAROM Demo](https://img.youtube.com/vi/YQcnAQMWmas/0.jpg)](https://youtu.be/YQcnAQMWmas)
 
