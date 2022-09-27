@@ -1,3 +1,16 @@
+# CAROM Air
+
+CAROM means "CARs On the Map tracked from the Air". It is our most recent work to track and localize vehicles using aerial videos taken by drones. It is designed for traffic scene reconstruction and analysis. See the following short [demo video](https://youtu.be/YQcnAQMWmas). Our research paper is currently under review.
+
+[![CAROM Demo](https://img.youtube.com/vi/YQcnAQMWmas/0.jpg)](https://youtu.be/YQcnAQMWmas)
+
+## Demo Videos
+
+More detailed demo videos for qualitative evaluation are shown as follows.
+
+* Tracking evaluation: [track 1a](https://youtu.be/9IsbQ_jfSlA), [track 1b](https://youtu.be/VWkGq62GtP8), [track 1c](https://youtu.be/LrPKceT6OoI), [track 1d](https://youtu.be/xesGTjivWwc).
+
+
 # CAROM
 
 CAROM means "CARs On the Map". It is a framework to track and localize vehicles using monocular traffic monitoring cameras on road infrastructures. The tracking results can be stored in files or in a database as records. Using the results, a traffic scene can be reconstructed and replayed on a map. See the following short [demo video](https://youtu.be/2OQ2Pf1BeHc), a [presentation](https://youtu.be/rbA0ppKy9Dc), and a preprint version of our [paper](https://arxiv.org/abs/2104.00893) on ICRA 2021 and a more detailed [paper](https://www.researchgate.net/profile/Jeffrey-Wishart/publication/350640893_Infrastructure-Based_Sensor_Data_Capture_Systems_for_Measurement_of_Operational_Safety_Assessment_OSA_Metrics/links/606b966c92851c91b1a6c16b/Infrastructure-Based-Sensor-Data-Capture-Systems-for-Measurement-of-Operational-Safety-Assessment-OSA-Metrics.pdf) on our work about the infrastructure.
