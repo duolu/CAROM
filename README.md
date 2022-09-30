@@ -8,6 +8,9 @@ CAROM Air means "CARs On the Map tracked from the Air". It is our recent work to
 
 More detailed demo videos for qualitative evaluation are shown as follows.
 
+* Keypoints and masks
+  * [Track 0a](https://youtu.be/jSyA9yeg9CE) (Roundabout in Mesa, AZ, ~25 minutes)
+  * [Track 0b](https://youtu.be/9kRBCou6yco) (Intersection in Mesa, AZ, ~25 minutes)
 * Tracking evaluation
   * [Track 1a](https://youtu.be/9IsbQ_jfSlA) (Roundabout in Mesa, AZ, ~16 minutes)
   * [Track 1b](https://youtu.be/VWkGq62GtP8) (Intersection in Salt River Community, AZ, ~25 minutes)
