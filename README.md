@@ -63,6 +63,6 @@ More detailed demo videos for qualitative evaluation are shown as follows.
 
 ## Publications
 
-* Duo Lu, Varun C Jammula, Steven Como, Jeffrey Wishart, Yan Chen, Yezhou Yang, "**CAROM - Vehicle Localization and Traffic Scene Reconstruction from Monocular Cameras on Road Infrastructures**" *IEEE International Conference on Robotics and Automation (ICRA), 2021.*
-* Niraj Altekar, Steven Como, Duo Lu, Jeffrey Wishart, Donald Bruyere, Faisal Saleem, K Larry Head, "**Infrastructure-Based Sensor Data Capture Systems for Measurement of Operational Safety Assessment (OSA) Metrics**" *SAE WCX Digital Summit, 2021.*
-* Anshuman Srinivasan, Yoga Mahartayasa, Varun Chandra Jammula, Duo Lu, Steven Como, Jeffrey Wishart, Maria Elli, Yezhou Yang, Hongbin Yu, "**Infrastructure-based LiDAR Monitoring for Assessing Automated Driving Safety**" *SAE WCX Digital Summit, 2022.*.
+* Duo Lu, Varun C Jammula, Steven Como, Jeffrey Wishart, Yan Chen, Yezhou Yang, "**CAROM - Vehicle Localization and Traffic Scene Reconstruction from Monocular Cameras on Road Infrastructures**", *IEEE International Conference on Robotics and Automation (ICRA), 2021.*
+* Niraj Altekar, Steven Como, Duo Lu, Jeffrey Wishart, Donald Bruyere, Faisal Saleem, K Larry Head, "**Infrastructure-Based Sensor Data Capture Systems for Measurement of Operational Safety Assessment (OSA) Metrics**", *SAE WCX Digital Summit, 2021.*
+* Anshuman Srinivasan, Yoga Mahartayasa, Varun Chandra Jammula, Duo Lu, Steven Como, Jeffrey Wishart, Maria Elli, Yezhou Yang, Hongbin Yu, "**Infrastructure-based LiDAR Monitoring for Assessing Automated Driving Safety**", *SAE WCX Digital Summit, 2022.*.
