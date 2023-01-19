@@ -39,6 +39,13 @@ More detailed demo videos for qualitative evaluation are shown as follows.
   * [Local road segments](https://youtu.be/BPsEchi_qWU)
   * [Highway segments](https://youtu.be/R5io_pBuvpM)
 
+## Publications
+
+* Duo Lu, Eric Eaton, Matt Weg, Wei Wang, Steven Como, Jeffrey Wishart, Hongbin Yu, Yezhou Yang, "**CAROM Air - Vehicle Localization and Traffic Scene Reconstruction from Aerial Video**", *IEEE International Conference on Robotics and Automation (ICRA), 2023.*
+
+* Siddharth Das, Prabin Rath, Duo Lu, Tyler Smith, Jeffrey Wishart, Hongbin Yu, "**Comparison of Infrastructure-and Onboard Vehicle-Based Sensor Systems in Measuring Safety Metrics**", *SAE WCX Digital Summit, 2023.*
+
+
 
 # CAROM
 
