@@ -1,6 +1,6 @@
 # CAROM Air
 
-CAROM Air means "CARs On the Map tracked from the Air". It is our recent work to track and localize vehicles using aerial videos taken by drones. It is designed for traffic scene reconstruction and analysis. See the following short [demo video](https://youtu.be/YQcnAQMWmas). Our research paper is going to be published at ICRA 2023, and our dataset will be made openly available once it is published (somewhere in May, 2023).
+CAROM Air means "CARs On the Map tracked from the Air". It is our recent work to track and localize vehicles using aerial videos taken by drones. It is designed for traffic scene reconstruction and analysis. See the following short [demo video](https://youtu.be/YQcnAQMWmas) and a more detailed [presentation video](https://www.youtube.com/watch?v=eMgsUzwJAOU). Our [research paper](https://github.com/duolu/CAROM/blob/main/papers/CAROM_Air_camera_ready.pdf) is published at IEEE ICRA 2023, and our dataset will be made openly available gradually through the later half of 2023. A preview of the dataset can be accessed from [this document](https://docs.google.com/document/d/1ILzkIccVBLmeqEZhxXrqL1S1Mc7ZNXqR8s5JoJlDTzA/edit?usp=share_link).
 
 [![CAROM Demo](https://img.youtube.com/vi/YQcnAQMWmas/0.jpg)](https://youtu.be/YQcnAQMWmas)
 
@@ -49,11 +49,11 @@ More detailed demo videos for qualitative evaluation are shown as follows.
 
 # CAROM
 
-CAROM means "CARs On the Map". It is a framework to track and localize vehicles using monocular traffic monitoring cameras on road infrastructures. The tracking results can be stored in files or in a database as records. Using the results, a traffic scene can be reconstructed and replayed on a map. See the following short [demo video](https://youtu.be/2OQ2Pf1BeHc), a [presentation](https://youtu.be/rbA0ppKy9Dc), and a preprint version of our [paper](https://arxiv.org/abs/2104.00893) on ICRA 2021 and a more detailed [paper](https://www.researchgate.net/profile/Jeffrey-Wishart/publication/350640893_Infrastructure-Based_Sensor_Data_Capture_Systems_for_Measurement_of_Operational_Safety_Assessment_OSA_Metrics/links/606b966c92851c91b1a6c16b/Infrastructure-Based-Sensor-Data-Capture-Systems-for-Measurement-of-Operational-Safety-Assessment-OSA-Metrics.pdf) on our work about the infrastructure.
+CAROM means "CARs On the Map". It is a framework to track and localize vehicles using monocular traffic monitoring cameras on road infrastructures. The tracking results can be stored in files or in a database as records. Using the results, a traffic scene can be reconstructed and replayed on a map. See the following short [demo video](https://youtu.be/2OQ2Pf1BeHc), a [presentation](https://youtu.be/rbA0ppKy9Dc), a preprint version of our [paper]([https://arxiv.org/abs/2104.00893](https://github.com/duolu/CAROM/blob/main/papers/CAROM_camera_ready.pdf)) published at IEEE ICRA 2021, and a more detailed [paper](https://github.com/duolu/CAROM/blob/main/papers/Infrastructure-Based%20Sensor%20Data%20Capture%20Systems%20for%20Measurement%20of%20Operational%20Safety%20Assessment%20(OSA)%20Metrics%20(SAE%202021).pdf) on our work about the infrastructure published by SAE.
 
 [![CAROM Demo](https://img.youtube.com/vi/2OQ2Pf1BeHc/0.jpg)](https://youtu.be/2OQ2Pf1BeHc)
 
-Through collaborating with the Maricopa County Department of Transportation (MCDOT) in Arizona, US, we constructed a small benchmarking dataset containing GPS data, infrastructure based camera videos, and drone videos to validate the vehicle tracking results. On average, the localization error is approximately 0.8 m and 1.7 m on average within the range of 50 m and 120 m from the cameras, respectively. 
+Through collaborating with the Maricopa County Department of Transportation (MCDOT) in Arizona, US, we constructed a small benchmarking dataset containing GPS data, infrastructure based camera videos, and drone videos to validate the vehicle tracking results. On average, the localization error is approximately 0.8 m and 1.7 m on average within the range of 50 m and 120 m from the cameras, respectively. Unfortunately, due to privacy and data ownership issues, we won't be able to make our dataset available here. However, interested parties are encouraged to contact [Institute of Automated Mobility (IAM)](https://www.azcommerce.com/iam/) in Arizona for collaboration.
 
 ## Demo Videos
 
