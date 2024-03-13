@@ -43,8 +43,9 @@ More detailed demo videos for qualitative evaluation are shown as follows.
 
 * Duo Lu, Eric Eaton, Matt Weg, Wei Wang, Steven Como, Jeffrey Wishart, Hongbin Yu, Yezhou Yang, "**CAROM Air - Vehicle Localization and Traffic Scene Reconstruction from Aerial Video**", *IEEE International Conference on Robotics and Automation (ICRA), 2023*.
 
-* Siddharth Das, Prabin Rath, Duo Lu, Tyler Smith, Jeffrey Wishart, Hongbin Yu, "**Comparison of Infrastructure-and Onboard Vehicle-Based Sensor Systems in Measuring Safety Metrics**", *SAE WCX Digital Summit, 2023*.
+* Siddharth Das, Prabin Rath, Duo Lu, Tyler Smith, Jeffrey Wishart, Hongbin Yu, "**Comparison of Infrastructure-and Onboard Vehicle-Based Sensor Systems in Measuring Safety Metrics**", *SAE WCX, 2023*.
 
+* Duo Lu, Sam Haines, Varun Jammula, Prabin Rath, Hongbin Yu, Yezhou Yang, Jeffrey Wishart, "**Validation and Analysis of Driving Safety Assessment Metrics in Real-world Car-Following Scenarios with Aerial Videos**", *SAE WCX, 2024*.
 
 
 # CAROM
@@ -71,6 +72,6 @@ More detailed demo videos for qualitative evaluation are shown as follows.
 ## Publications
 
 * Duo Lu, Varun C Jammula, Steven Como, Jeffrey Wishart, Yan Chen, Yezhou Yang, "**CAROM - Vehicle Localization and Traffic Scene Reconstruction from Monocular Cameras on Road Infrastructures**", *IEEE International Conference on Robotics and Automation (ICRA), 2021*.
-* Niraj Altekar, Steven Como, Duo Lu, Jeffrey Wishart, Donald Bruyere, Faisal Saleem, K Larry Head, "**Infrastructure-Based Sensor Data Capture Systems for Measurement of Operational Safety Assessment (OSA) Metrics**", *SAE WCX Digital Summit, 2021*.
-* Anshuman Srinivasan, Yoga Mahartayasa, Varun Chandra Jammula, Duo Lu, Steven Como, Jeffrey Wishart, Maria Elli, Yezhou Yang, Hongbin Yu, "**Infrastructure-based LiDAR Monitoring for Assessing Automated Driving Safety**", *SAE WCX Digital Summit, 2022*.
+* Niraj Altekar, Steven Como, Duo Lu, Jeffrey Wishart, Donald Bruyere, Faisal Saleem, K Larry Head, "**Infrastructure-Based Sensor Data Capture Systems for Measurement of Operational Safety Assessment (OSA) Metrics**", *SAE WCX, 2021*.
+* Anshuman Srinivasan, Yoga Mahartayasa, Varun Chandra Jammula, Duo Lu, Steven Como, Jeffrey Wishart, Maria Elli, Yezhou Yang, Hongbin Yu, "**Infrastructure-based LiDAR Monitoring for Assessing Automated Driving Safety**", *SAE WCX, 2022*.
 * Jeffrey Wishart, Yan Chen, Steven Como, Narayanan Kidambi, Duo Lu, Yezhou Yang, "**Fundamentals of Connected and Automated Vehicles**", *SAE International, 2022*.
