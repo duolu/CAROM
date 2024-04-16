@@ -2,7 +2,7 @@
 
 CAROM Air means "CARs On the Map tracked from the Air". It is our recent work to track and localize vehicles using aerial videos taken by drones. It is designed for traffic scene reconstruction and analysis. See the following short [demo video](https://youtu.be/YQcnAQMWmas) and a more detailed [presentation video](https://www.youtube.com/watch?v=eMgsUzwJAOU). Our [research paper](https://github.com/duolu/CAROM/blob/main/papers/CAROM_Air_camera_ready.pdf) is published at IEEE ICRA 2023, and our dataset will be made openly available gradually through the later half of 2023. A preview of the dataset can be accessed from [this document](https://docs.google.com/document/d/1ILzkIccVBLmeqEZhxXrqL1S1Mc7ZNXqR8s5JoJlDTzA/edit?usp=share_link).
 
-[![CAROM Demo](https://img.youtube.com/vi/YQcnAQMWmas/0.jpg)](https://youtu.be/YQcnAQMWmas)
+[![CAROM Air Demo](https://img.youtube.com/vi/YQcnAQMWmas/0.jpg)](https://youtu.be/YQcnAQMWmas)
 
 ## Demo Videos
 
@@ -45,7 +45,7 @@ More detailed demo videos for qualitative evaluation are shown as follows.
 
 * Siddharth Das, Prabin Rath, Duo Lu, Tyler Smith, Jeffrey Wishart, Hongbin Yu, "**Comparison of Infrastructure-and Onboard Vehicle-Based Sensor Systems in Measuring Safety Metrics**", *SAE WCX, 2023*.
 
-* Duo Lu, Sam Haines, Varun Jammula, Prabin Rath, Hongbin Yu, Yezhou Yang, Jeffrey Wishart, "**Validation and Analysis of Driving Safety Assessment Metrics in Real-world Car-Following Scenarios with Aerial Videos**", *SAE WCX, 2024*.
+* Duo Lu, Sam Haines, Varun Jammula, Prabin Rath, Hongbin Yu, Yezhou Yang, Jeffrey Wishart, "**Validation and Analysis of Driving Safety Assessment Metrics in Real-world Car-Following Scenarios with Aerial Videos**", *SAE WCX, 2024*. [slides](https://docs.google.com/presentation/d/1G4GMgMYKR4wsEFfhZ41oxgweFMROM1JcrJBjGaZPFTU/edit?usp=sharing)
 
 
 # CAROM
